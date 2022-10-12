@@ -133,10 +133,10 @@ class Swapi {
     }
 
     private function setQuery($atts): void {
-        if (!isset($atts['query'])) {
-           $this->query = "films";
+        if (isset($atts['query'])) {
+	    $this->query = $atts['query'];
         } else {
-            $this->query = $atts['query'];
+            $this->query = "films";
         }
         $this->setStoreFile();
     }
