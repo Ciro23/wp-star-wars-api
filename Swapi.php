@@ -104,7 +104,7 @@ class Swapi {
             echo "<div class='swapi-details-flexable'>";
                 echo "<div>";
                     echo "<p>Director: " . $content->director . "</p>";
-                    echo "<p>Realease: " . $content->release_date . "</p>";
+                    echo "<p>Release: " . $content->release_date . "</p>";
                 echo "</div>";
             echo "</div>";
             echo "</div>";
