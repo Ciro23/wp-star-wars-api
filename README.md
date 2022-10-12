@@ -8,7 +8,7 @@ After querying the Star Wars API, the results are stored in json files (one for 
 
 ## Gallery
 films  
-![image](https://user-images.githubusercontent.com/38884767/195376095-9de0338d-89ee-4365-9bcf-c57ce7747b42.png)
+![image](https://user-images.githubusercontent.com/38884767/195384800-449ffbeb-4c98-4548-be92-fa48629e7f3c.png)
 
 characters  
 ![image](https://user-images.githubusercontent.com/38884767/195376196-4f1d162d-50a6-4716-be30-b6ed32b7012b.png)
