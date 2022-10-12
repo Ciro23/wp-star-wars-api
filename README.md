@@ -1,6 +1,6 @@
 # WordPress plugin Star Wars API
 If added to /wp-content/plugins/ a new shortcode callable with [swapi] is available.  
-After quering the Star Wars API, the results are stored in json files (one for every "query type"), which are used for 24 hours after their last modification.
+After querying the Star Wars API, the results are stored in json files (one for every "query type"), which are used for 24 hours after their last modification.
 
 ## Usages
 [swapi query=films] => default behaviour  
