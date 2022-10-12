@@ -1,6 +1,8 @@
 <?php
 /**
 Plugin Name: Swapi
+Plugin URI: https://github.com/Ciro23/wp-star-wars-api
+Author: ciro23
 **/
 
 class Swapi {
