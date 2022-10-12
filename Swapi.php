@@ -7,9 +7,9 @@ Author: ciro23
 
 class Swapi {
 
-    private $baseUrl = "https://swapi.dev/api/";
-    private $query;
-    private $storeFile;
+    private string $baseUrl = "https://swapi.dev/api/";
+    private string $query;
+    private string $storeFile;
 
     public function __construct(array $atts) {
         $this->setQuery($atts);
